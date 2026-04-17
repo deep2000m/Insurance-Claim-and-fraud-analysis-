@@ -13,6 +13,9 @@ Policy-wise Performance
 Cost & Settlement Analysis
 
 
+<img width="891" height="497" alt="Image" src="https://github.com/user-attachments/assets/a836f39e-20d2-4726-b98f-640983a95d9d" />
+
+
 📂 Dataset Summary
 ~2000 records (3 years)
 Policy Types: Auto, Health, Property, Travel, Life
